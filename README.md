@@ -14,5 +14,5 @@ Inspired by https://twitter.com/nick_beauchamp/status/1473509106187223043
 -----
 Data sources:
 
-* Cases in Canada: https://api.covid19tracker.ca/reports?order=desc
+* Cases in Canada: [COVID-19 Tracker Canada](covid19tracker.ca)
 * Reviews: Amazon.ca
