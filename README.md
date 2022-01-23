@@ -10,7 +10,7 @@ See the Notebook ([analysis.ipynb](https://github.com/10ego/badly-scented-candle
 
 
 -----
-Inspired by (this tweet)[https://twitter.com/nick_beauchamp/status/1473509106187223043]
+Inspired by [this tweet](https://twitter.com/nick_beauchamp/status/1473509106187223043)
 -----
 Data sources:
 
