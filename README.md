@@ -6,11 +6,11 @@ I was sent the below picture and here in my bored mind went to go replicate the 
 
 Using Amazon.ca and scraping review data across 4 product pages, I collected about 220 comments and labelled these myself.
 
-See the Notebook (analysis.ipynb) to follow along if interested.
+See the Notebook ([analysis.ipynb](https://github.com/10ego/badly-scented-candles-covid/blob/main/analysis.ipynb)) to follow along if interested.
 
 
 -----
-Inspired by https://twitter.com/nick_beauchamp/status/1473509106187223043
+Inspired by (this tweet)[https://twitter.com/nick_beauchamp/status/1473509106187223043]
 -----
 Data sources:
 
